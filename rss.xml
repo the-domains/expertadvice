@@ -4,14 +4,14 @@
         <description><![CDATA[expertadvice]]></description>
         <link>https://thegrid.ai/expertadvice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 07:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 07:52:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/expertadvice/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>First post</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b775a8c7-dbb0-4e8e-9c61-7a032931f8fd.jpg">]]></description>
             <link>https://thegrid.ai/expertadvice/first-post/index.html</link>
             <guid isPermaLink="false">c3630104-68de-4679-ab89-459c8ab71cb4</guid>
-            <pubDate>Fri, 01 Apr 2016 07:44:43 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 07:52:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
