@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Leading marketing and communications
-datePublished: '2016-04-01T07:52:04.927Z'
-dateModified: '2016-04-01T07:52:03.874Z'
-title: ''
+datePublished: '2016-04-01T07:56:45.468Z'
+dateModified: '2016-04-01T07:55:28.782Z'
+title: Contact
 author: []
 sourcePath: _posts/2016-04-01-first-post.md
 published: true
