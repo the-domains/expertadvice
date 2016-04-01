@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: First post
-datePublished: '2016-04-01T07:34:25.495Z'
-dateModified: '2016-04-01T07:33:39.735Z'
+datePublished: '2016-04-01T07:44:43.090Z'
+dateModified: '2016-04-01T07:44:37.242Z'
 title: ''
 author: []
 authors: []
@@ -25,4 +25,4 @@ _type: Article
 First post
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b775a8c7-dbb0-4e8e-9c61-7a032931f8fd.jpg)
 
-What can be seen can never be unseen.
+Leading marketing and communications
