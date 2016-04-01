@@ -1,6 +1,6 @@
 name: expertadvice
 favicon: null
-layout_spectrum: 0.74357
+layout_spectrum: 0.006
 typography_spectrum: 0.50515
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.6364234096836299
-  lightness: 0.7750216342974454
-  saturation: 0.5901572839356959
-  rhythmicContrast: 0.5983520681038499
+  brandStrength: 0.8125
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
